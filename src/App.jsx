@@ -1,6 +1,7 @@
 import { useState } from "react";
-// src/App.jsx
 import React from "react";
+import App from "./App";
+import "./index.css";
 import todolist from "./todolist";
 
 const App = () => {
